@@ -1,3 +1,7 @@
+# Databse Configuration
+
+This project connects to a MySQL database instance. The file to populate the database is the freely available 2016 Lahman baseball dataset available for download via: http://seanlahman.com/files/database/lahman2016-sql.zip
+
 # CakePHP Application Skeleton
 
 [![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)
